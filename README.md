@@ -3,5 +3,6 @@ The project of interaction between generative agent and generative environment. 
 
 The project is in progress. The code will be submitted later.
 
-https://github.com/QuangBK/GenerativeVirtualWorld/assets/14158633/1165a8e0-edfa-44d3-8c84-ee56e4efe8eb
+[demo_genVirtualWorld.webm](https://github.com/QuangBK/GenerativeVirtualWorld/assets/14158633/326a35a6-6b60-4e7d-ad7d-ce0e00e280eb)
+<!--- https://github.com/QuangBK/GenerativeVirtualWorld/assets/14158633/1165a8e0-edfa-44d3-8c84-ee56e4efe8eb --->
 
